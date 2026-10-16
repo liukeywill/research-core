@@ -11,7 +11,7 @@ Vibe Research 两种模式共用的研究基础规范，来源于原 Vibe Resear
 | [claims-review](references/claims-review.md) | 论证、论文写作、评审和最终核验 |
 | [traceability](references/traceability.md) | 建项目、恢复、变更和版本追溯 |
 
-使用入口：[Vibe Research](https://github.com/liukeywill/vibe-research)，提供人工核查和自动成稿两种模式。原 Auto Paper 仓库与兼容入口已移除。普通写作与表达编辑使用 [Vibe Writing](https://github.com/liukeywill/vibe-writing)。
+使用入口：[Vibe Research](https://github.com/liukeywill/vibe-research)，提供人工核查和自动成稿两种模式。执行入口统一为 `$vibe-research`，不再提供旧名称兼容调用。普通写作与表达编辑使用 [Vibe Writing](https://github.com/liukeywill/vibe-writing)。
 
 ## 维护方式
 
